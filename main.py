@@ -1,8 +1,8 @@
-def sumdiff(x, y):
+def sumDiff(x, y):
 
     return (x + y) - (x - y)
 
 
 
 
-print (sumdiff(20, 15))
+print (sumDiff(20, 15))
